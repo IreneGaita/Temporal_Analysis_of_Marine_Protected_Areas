@@ -45,3 +45,9 @@ Il dataset utilizzato è stato scaricato dal sito ufficiale dell'OECD e comprend
 
 - Test del chi-quadrato.
 - Analisi di distribuzioni binomiali.
+
+## File del Progetto
+
+- **[Temporal_Analysis_of_Marine_Protected_Areas.pdf](Temporal_Analysis_of_Marine_Protected_Areas.pdf)**: Documentazione completa del progetto, con dettagli sulla metodologia, analisi e risultati.
+- **[Temporal_Analysis_of_Marine_Protected_Areas_code.R](Temporal_Analysis_of_Marine_Protected_Areas_code.R)**: Codice R utilizzato per l'analisi e la visualizzazione dei dati.
+
